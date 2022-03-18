@@ -1,3 +1,7 @@
+
+
+Para iniciarmos o projeto temos um comando do NPM: npm init serão feitas diversas perguntas sobre nosso projeto como: package name (nome do projeto); version; description; entry point ( arquivo que irá inicializar o servidor. Não temos ainda esse arquivo mas ele se chamará index.js quando criarmos o servidor); test command (não relizaremos testes neste curso); git repository; keywords; autor (nosso nome); license (trata-se de um porjeto aberto, então estamos usando a licença ISC).
+
 O nodemon é um utilitário de interface de linha de comando (CLI) desenvolvido pelo @rem que encapsula seu aplicativo Node, monitora o sistema de arquivos e reinicia o processo automaticamente
 
 consign -> ele vai agrupar as rotas em um app
