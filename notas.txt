@@ -1,0 +1,3 @@
+O nodemon é um utilitário de interface de linha de comando (CLI) desenvolvido pelo @rem que encapsula seu aplicativo Node, monitora o sistema de arquivos e reinicia o processo automaticamente
+
+consign -> ele vai agrupar as rotas em um app
